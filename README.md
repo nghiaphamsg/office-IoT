@@ -34,13 +34,13 @@ Using Node-red as the central server, devices to control via ESP8266, the displa
     - "SimpleDHT" version 1.0.12
     - "PubSubClient" version 2.6.0\
 Example: Sketch >> Include library >> Manage libraries >> Search Adafruit MQTT Library >> Choose version 0.20.1 >> Install
-* Step 4:\
+* Step 4:
   - Config your wifi and MQTT server into file wifi.h and MQTT.h
   - Upload code to ESP8266: choose Board >> select Wemos D1 mini board >> select Port >> select Upload Speed 115200 >> Upload 
-* Step 5:\
+* Step 5:
   - Install Nodejs and Node Red >> search google sensei pls :))
   - Open commad line >> "node-red" execute >> Open Chrome and access http://127.0.0.1:1880/
-* Step 6:\
+* Step 6:
   - Menu(right-top) >> Import >> Clipboard >> after add all *.txt in officeIoT/Node-RED folder 
   - Menu(right-top) >> Manage Palette >> choose Palette >> choose Install >> search 
   - All list Palette install:
