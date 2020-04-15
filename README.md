@@ -59,6 +59,6 @@ Example: Sketch >> Include library >> Manage libraries >> Search Adafruit MQTT L
 ![Image2](https://user-images.githubusercontent.com/32474027/54192359-1f0df800-44fb-11e9-9977-f7f4a09a8257.jpg)
 ![Image3](https://user-images.githubusercontent.com/32474027/54192515-7a3fea80-44fb-11e9-81ed-a329b7887c06.png)
 #### Link Demo:
-  - Youtube: ***https://www.youtube.com/watch?v=etRNNFAa71s&t=57s***
+  - Youtube: ***https://www.youtube.com/watch?v=etRNNFAa71s***
   - Facebook: ***https://www.facebook.com/nekobot2596/***
 
