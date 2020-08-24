@@ -48,7 +48,7 @@ Example: Sketch >> Include library >> Manage libraries >> Search Adafruit MQTT L
     - `"node-red-contrib-alexa-local" version 0.3.24`
     - `"node-red-contrib-nexmo" version 2.1.0`
     - `"node-red-contrib-firebase" version 1.1.1`
-* Step 7:\
+* Step 7:
   - Get API and config node in Node-red
 #### Image:
 ![Image1](https://user-images.githubusercontent.com/32474027/54192325-06054700-44fb-11e9-929f-c74dc70b60f7.jpg)
