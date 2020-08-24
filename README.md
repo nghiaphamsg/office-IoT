@@ -21,10 +21,10 @@ Using Node-red as the central server, devices to control via ESP8266, the displa
  ```shell
   gitclone https://github.com/nghiaphamsg/Office-IoT.git
  ```
-* Step 2:\
+* Step 2:
   - Import file *.h and *.ino into the arduino IDE
-* Step 3:\
-  List install library: 
+* Step 3:
+  List [install](https://www.arduino.cc/en/guide/libraries) library: 
     - "Adafruit MQTT Library" version 0.20.1
     - "DHT sensor library" version 1.2.3
     - "SimpleDHT" version 1.0.12
