@@ -16,13 +16,13 @@ Using Node-red as the central server, devices to control via ESP8266, the displa
 | Other API (in Node-red) |  [Alexa Echo Dot 2nd Generation](https://www.amazon.com/Amazon-Echo-Dot-Portable-Bluetooth-Speaker-with-Alexa-White/dp/B015TJD0Y4)  |
 | | LED |
 
-### How to use:
+### How to use
 * Step 1:
  ```shell
   gitclone https://github.com/nghiaphamsg/Office-IoT.git
  ```
 * Step 2:\
-  Import file *.h and *.ino into the arduino IDE
+  - Import file *.h and *.ino into the arduino IDE
 * Step 3:\
   List install library: 
     - "Adafruit MQTT Library" version 0.20.1
@@ -34,7 +34,7 @@ Example: Sketch >> Include library >> Manage libraries >> Search Adafruit MQTT L
   - Config your wifi and MQTT server into file wifi.h and MQTT.h
   - Upload code to ESP8266: choose Board >> select Wemos D1 mini board >> select Port >> select Upload Speed 115200 >> Upload 
 * Step 5:
-  - Install Nodejs and Node Red >> search google sensei pls :))
+  - [Install Nodejs and Node Red](https://nodered.org/docs/getting-started/windows)
   - Open commad line >> "node-red" execute >> Open Chrome and access http://127.0.0.1:1880/
 * Step 6:
   - Menu(right-top) >> Import >> Clipboard >> after add all *.txt in officeIoT/Node-RED folder 
@@ -49,7 +49,7 @@ Example: Sketch >> Include library >> Manage libraries >> Search Adafruit MQTT L
     - `"node-red-contrib-nexmo" version 2.1.0`
     - `"node-red-contrib-firebase" version 1.1.1`
 * Step 7:\
-  Get API and config node in Node-red >> search google sensei pls :)
+  - Get API and config node in Node-red
 #### Image:
 ![Image1](https://user-images.githubusercontent.com/32474027/54192325-06054700-44fb-11e9-929f-c74dc70b60f7.jpg)
 ![Image2](https://user-images.githubusercontent.com/32474027/54192359-1f0df800-44fb-11e9-9977-f7f4a09a8257.jpg)
