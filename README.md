@@ -1,8 +1,16 @@
 # Project Name: Graduation Project Of IoT Office 2018/07
 
 ## Introduce
-Using Node-red as the central server, devices to control via ESP8266, the display interface uses graphs or buttons to control via the website, voice or chatbot
+- A office automation system will monitor and/or control office attributes such as lighting, climate, entertainment systems, and appliances. It may also include home security such as access control and alarm systems. When connected with the Internet, office devices are an important constituent of the Internet of Things ("IoT").
 
+## Features
+- Using Node-red as the central server (processing).
+- Every device connects via wifi (ESP8266/ESP32), then the information is displayed on the website/smart phone.
+- Control office equipment through web, voice or chat bot.
+- Using motion sensor to notify theft via email, SMS, Facebook message.
+- Using fire sensor to notify fire via email, sms, facebook message.
+- Can chat with bots simply.
+- ...
 
 | Software  | Hardware |
 | ------------- | ------------- |
@@ -16,7 +24,7 @@ Using Node-red as the central server, devices to control via ESP8266, the displa
 | Other API (in Node-red) |  [Alexa Echo Dot 2nd Generation](https://www.amazon.com/Amazon-Echo-Dot-Portable-Bluetooth-Speaker-with-Alexa-White/dp/B015TJD0Y4)  |
 | | LED |
 
-### How to use
+### Usage
 * Step 1:
  ```shell
   gitclone https://github.com/nghiaphamsg/Office-IoT.git
