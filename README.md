@@ -1,7 +1,7 @@
 # Project Name: Graduation Project Of IoT Office 2018/07
 
 ## Introduce
-- A office automation system will monitor and/or control office attributes such as lighting, climate, entertainment systems, and appliances. It may also include home security such as access control and alarm systems. When connected with the Internet, office devices are an important constituent of the Internet of Things ("IoT").
+- An office automation system will monitor and/or control office attributes such as lighting, climate, entertainment systems, and appliances. It may also include office security such as access control and alarm systems. When connected with the Internet, office devices are an important constituent of the Internet of Things ("IoT").
 
 ## Features
 - Using Node-red as the central server (processing).
