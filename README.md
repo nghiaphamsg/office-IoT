@@ -58,7 +58,7 @@ Example: Sketch >> Include library >> Manage libraries >> Search Adafruit MQTT L
     - `"node-red-contrib-firebase" version 1.1.1`
 * Step 7:
   - Get API and config node in Node-red
-#### Image:
+#### Actual Product:
 ![Image1](https://user-images.githubusercontent.com/32474027/54192325-06054700-44fb-11e9-929f-c74dc70b60f7.jpg)
 ![Image2](https://user-images.githubusercontent.com/32474027/54192359-1f0df800-44fb-11e9-9977-f7f4a09a8257.jpg)
 ![Image3](https://user-images.githubusercontent.com/32474027/54192515-7a3fea80-44fb-11e9-81ed-a329b7887c06.png)
